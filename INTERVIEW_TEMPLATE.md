@@ -64,4 +64,10 @@ Las siguientes preguntas son solamente una guía, no necesariamente tienen que h
 * Utilicen la tecnica de los `5 why's`, la cual consiste en preguntar 5 veces porque a partir de un tema, o una pregunta que el cliente tenga.
 * Utilicen experiencias pasadas sobre lo que les ha funcionado en implementaciones pasadas, los clientes sienten seguridad de saber que ya han pasado por eso.
 * Expliquen a detalle posibles soluciones, las analogias funcionan bastante.
+* Recuerden que el cliente no siempre será o tendrá conocimiento técnico elevado como ustedes, sean empáticos.
 
+
+
+#### Recursos
+
+https://www.empathy-driven-development.com/
