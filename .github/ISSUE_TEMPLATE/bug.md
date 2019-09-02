@@ -1,35 +1,42 @@
 ---
 name: Bug
-about: This will create a bug type issue
+about: Plantilla que describe un nuevo error
 ---
 
-## Bug Title
+## Título del bug
 
-### Description
+### Descripción
 
-Please replace this text with a complete description of the BUG. You may also add any screenshots you think can be helpful. If the project is a web based development, you should give a bit more context on the browser version and OS.
+Este bloque de texto deberá ser reemplazado con la descripción del error presentado. Es importante tomar capturas de pantalla que puedan resultar útiles. 
 
-### Steps to reproduce
+### Pasos para reproducir
 
-1. [Detailed step description]
+1. Paso uno detallado
+2. Paso dos detallado
 
-### Expected behavior
+### Comportamiento esperado
 
-When < action >, the system should < expected behavior >
+Cuando < acción >, la aplicación debe de < comportamiento esperado >
 
-### Current behavior
+### Comportamiento actual
 
-When < action >, the system is < current behavior >
+Cuando < acción >, la aplicación esta < comportamiento actual >
 
 ### Context
 
-| Browser | Version | OS |
+| Navegador | Version | OS |
 |----------|:-------------:|------:|
 | firefox | 34 | Windows |
 
-### Files that may need to be modified or are being affected
+===
+
+| Dispositivo | OS | Version |
+|----------|:-------------:|------:|
+| Pixel 2 | Android | 9.0 |
+
+### Archivos que pudieran verse afectados
 
 - [app/models/user.rb](/)
 - [app/views/users/profile.html.erb](/)
 
-### Screenshots
+### Capturas de pantalla

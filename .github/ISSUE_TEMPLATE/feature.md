@@ -1,39 +1,37 @@
 ---
-name: User Story
-about: Use this to describe a new feature or user story for the project
+name: Historia de usuario
+about: Plantilla que describe una nueva funcionalidad
 ---
 
-## User Story Title
+## Título de la historia de usuario
 
-As a/an < user type > I can < description of the feature > in order to < goal >
+Como < tipo de usuario > puedo < descripción de la funcionalidad > para < objetivo >
 
-### Points of complexity
+### Puntos de complejidad
 
-### Context
+< # de puntos de complejidad >
 
- Please replace this text with a bit more context for the feature. Also mention whether an existing plugin or third-pary solution exists that already implements said feature, or even some helpful tips and hints on how to implement it.
+### Conversación
 
-### Tasks
+Este bloque de texto debe ser utilizado para dar un poco más de contexto para la funcionalidad. Asi mismo puedes
+mencionar la existencia o uso de un plugin o solución de algún tercero que se vaya a implementar o ya este ejecutandose actualmente.
 
-- [ ] A task for the user story
-- [ ] A task for the user story
-- [ ] A task for the user story
+### Criterios de aceptación
 
-### Acceptance criteria
-
-- [ ] Acceptance criteria 1
-- [ ] Acceptance criteria 2
-- [ ] Acceptance criteria 3
+- [ ] Criterio de aceptación 1
+- [ ] Criterio de aceptación 2
+- [ ] Criterio de aceptación 3
 
 ### Definition of Done
 
-- [ ] Are the tests passing?
-- [ ] Did you received code review?
+- [ ] ¿Las pruebas están pasando?
+- [ ] ¿Recibiste revisión de código?
 
 ### Definition of Ready
 
-- 
+- [ ] Elemento 1
+- [ ] Elemento 2
 
-## Related Issues, Pull Requests, and Resources
+## Issues relacionados, Pull Requests y/o recursos
 
-A list of related issued if they exist or links to resources which the developer may need, such as the InVision url for a design reference.
+Un listado de referencias dentro del código que puedan ser valiosas para otro desarrollador, alguna liga, plugin, referencia de diseño. 
