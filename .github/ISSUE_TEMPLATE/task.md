@@ -17,4 +17,4 @@ Please replace this text with a complete description of the TASK. You should be 
 
 ### Definition of Done
 
-- [ ] An checklist element
+- [ ] A checklist element

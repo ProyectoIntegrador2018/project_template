@@ -7,6 +7,8 @@ about: Use this to describe a new feature or user story for the project
 
 As a/an < user type > I can < description of the feature > in order to < goal >
 
+### Points of complexity
+
 ### Context
 
  Please replace this text with a bit more context for the feature. Also mention whether an existing plugin or third-pary solution exists that already implements said feature, or even some helpful tips and hints on how to implement it.
@@ -23,11 +25,12 @@ As a/an < user type > I can < description of the feature > in order to < goal >
 - [ ] Acceptance criteria 2
 - [ ] Acceptance criteria 3
 
-## Definition of Done
+### Definition of Done
 
-- 
+- [ ] Are the tests passing?
+- [ ] Did you received code review?
 
-## Definition of Ready
+### Definition of Ready
 
 - 
 
