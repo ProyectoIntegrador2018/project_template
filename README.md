@@ -7,6 +7,7 @@ Application to be awesome
 * [Client Details](#client-details)
 * [Environment URLS](#environment-urls)
 * [Da Team](#team)
+* [Technology Stack](#technology-stack)
 * [Management resources](#management-resources)
 * [Setup the project](#setup-the-project)
 * [Running the stack for development](#running-the-stack-for-development)
@@ -36,6 +37,13 @@ Application to be awesome
 | Nombre miembro | prueba@prueba.com | Development |
 | Nombre miembro | prueba@prueba.com | Development |
 | Nombre miembro | prueba@prueba.com | Development |
+
+### Technology Stack
+| Technology    | Version      |
+| ------------- | -------------|
+| Technology 1  | ##.##.##     |
+| Technology 2  | ##.##.##     |
+| Technology 3  | ##.##.##     |
 
 ### Management tools
 
